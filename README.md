@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alicemabille
 - 👀 I’m interested in drawing.
 - 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on programming homework.
-- 📫 How to reach me : alicemabille@yahoo.fr
+- 💞️ I’m looking for an intership related to programming or networking.
+- 📫 How to reach me : alicemabille26@gmail.com
 
 <!---
 alicemabille/alicemabille is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
