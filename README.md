@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alicemabille
 - 👀 I’m interested in drawing.
 - 🌱 I’m currently learning programming.
-- 💞️ I’m looking for an intership related to programming or networking.
+- 💞️ I’m looking for an intership related to programming or computer science.
 - 📫 How to reach me : alicemabille26@gmail.com
 
 <!---
