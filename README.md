@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alicemabille
-- 👀 I’m interested in data science annd machine learning, especially for text processing. I am also learning about signal processing and I enjoy it.
-- 🌱 I’m currently learning programming, statistics and basics of artificial intelligence.
+- 👀 I’m interested in data science and machine learning.
+- 🌱 I’m currently learning data engineering.
 - 💞️ I like to draw and paint in my free time.
 - 📫 How to reach me : alicemabille26@gmail.com
 
