@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alicemabille
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning data engineering.
+- 👀 I’m interested in discovering new, unexpected, useful things using machine learning and statistics.
+- 🌱 I’m currently learning data engineering and machine learning.
 - 💞️ I like to draw and paint in my free time.
 
 <!---
